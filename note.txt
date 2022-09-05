@@ -1,0 +1,36 @@
+On the journey to sharpening my coding skills by creating small stuff, this is Project 2 of 20.( hosted on Vercel).
+
+Here's number 3
+Project title: JavaScript Stopwatch game.
+
+Project Description
+This project is stopwatch created with #html , #css (#bootstrap included) and #javascript .
+The JavaScript aspect involves instantiation of the Javascript date object. Js method. Then,
+set of if/else statements was used to check if the user's entry matches the random number (rounded off). Users receive a response for each guess.
+
+Viola! Thats all!
+
+Hosted Project
+JavaScript Guess Game (Hosted on Vercel)
+
+
+Source Files
+ (Hosted on Github)
+
+Project Objective
+The objective of this #javascript Project to refresh my knowledge of:
+
+Functional Programming
+callbacks and Higher order functions
+Object instantiation
+if/else statements
+DOM manipulations
+--setInterval() and ClearInterval()
+
+
+Personalized Summary
+I was explaining if/else statements to a friend using the chrome console and
+I decided to extend it to a small solo project using DOM. It took less than 30 minutes to code(#javascript ).
+
+
+#javascriptdeveloper #internship #softwaredeveloper

@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+.navbar-toggler-icon, li{
+    font-size: 3rem;
+}
+.navbar-toggler-icon{
+    color: white;
+}
+.container{
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 3px solid blue;
+    margin: 1.5rem;
+    border-radius: 1rem;
+    padding: 1rem 3rem;
+    height: 70vh;
+    width: 50vh;
+    margin: auto;
+    position: relative;
+}
+
+.btn{
+    padding: 2px 8px;
+    background-color: wheat;
+    border-radius: 4px;
+    font-size: 3rem;
+    border-radius: 1rem;
+    padding: 0 2rem;
+    text-decoration:none;
+    cursor:pointer;
+    padding:8px 10px;
+    margin: 10px;
+    background-color: blue;
+    color: white;
+
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding-bottom: 20px;
+}
+
+.counter{
+    display: flex;
+    font-size: 6rem;
+    justify-content: center;
+
+}
+.counter #seconds, #minutes, #tens {
+    font-size: 6rem;
+    margin-bottom: 5rem;
+    padding: 0 1rem 8rem 1rem;
+    color: gray;
+    
+
+}
+
