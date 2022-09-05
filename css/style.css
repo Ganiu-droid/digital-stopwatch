@@ -50,7 +50,8 @@
     bottom: 0;
     right: 0;
     left: 0;
-    padding-bottom: 20px;
+    padding: 2rem;
+    margin: 2rem;
 }
 
 .counter{
